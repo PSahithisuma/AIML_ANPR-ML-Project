@@ -20,7 +20,8 @@ OpenCV
 TensorFlow / Keras
 NumPy, Matplotlib
 LabelImg for annotation
-Jupyter Notebook / Google Colab
+Google Colab/Jupyter Notebook
+
 
 
 🏗️ System Architecture
